@@ -1,16 +1,58 @@
-### Hi there 👋
+'use strict'
 
-<!--
-**litchireda/litchireda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const litchireda = {
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  user: {
+  
+    name: 'Litchi Reda',
+    
+    gender: 'male',
+    
+    birthyear: 1996,
+    
+  },
+  
+  contact: {
+  
+    email: 'litchi.reda@gmail.com',
+    
+    website: 'https://www.litchireda.com',
+    
+  },
+  
+  interests: ['Formula 1', 'Team sports', 'Music Production'],
+  
+  technologies: {
+  
+    languages: ['PHP', 'Javascript', 'Python', 'Bash'],
+    
+    backend: {
+    
+      javascript: ['NodeJS', 'express', 'adonis'],
+      
+      php: ['Laravel',  'homemade', 'Symfony'],
+      
+      python: ['django'],
+      
+    },
+    
+    frontend: { //TODO: Learn more
+    
+      mobile: ['React Native', 'Flutter'],
+      
+      javascript: ['ReactJS', 'VueJS', 'JQuery', 'vanilla'], 
+      
+    },
+    
+    databases: {
+    
+      sql: ['mysql', 'sqlite'],
+      
+      nosql: ['mongodb'], //TODO: Learn more
+      
+      other: [], //TODO: Learn more
+      
+    }
+    
+  }
+}
