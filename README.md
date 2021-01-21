@@ -1,3 +1,4 @@
+```javascript
 'use strict'
 
 const litchireda = {
@@ -29,3 +30,4 @@ const litchireda = {
     }    
   }
 }
+```
