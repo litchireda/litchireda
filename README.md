@@ -16,7 +16,7 @@ const litchireda = {
     languages: ['PHP', 'Javascript', 'Python', 'Bash'],    
     backend: {    
       javascript: ['NodeJS', 'express', 'adonis'],      
-      php: ['Laravel',  'homemade', 'Symfony'],      
+      php: ['Laravel', 'Symfony'],      
       python: ['django'],      
     },    
     frontend: { //TODO: Learn more    
