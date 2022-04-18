@@ -11,7 +11,7 @@ const litchireda = {
     email: 'litchi.reda@gmail.com',    
     website: 'https://www.litchireda.com',    
   },  
-  interests: ['Formula 1', 'Team sports', 'Music Production'],  
+  interests: ['Formula 1', 'Team sports', 'Music Production', 'Cinema'],  
   technologies: {  
     languages: ['PHP', 'Javascript', 'Python', 'Bash'],    
     backend: {    
